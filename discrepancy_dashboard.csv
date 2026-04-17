@@ -1,0 +1,4 @@
+InvoiceNumber,Supplier,Type,Amount,Impact
+INV-005,Vendor B,Missing Invoice,410.25,"PO exists, no invoice received"
+INV-006,Vendor D,Extra Invoice,1200.0,"Invoice received, no PO found"
+INV-004,Vendor A,Amount Mismatch,100.0,"PO: £3200.0, Invoice: £3100.0"
