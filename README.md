@@ -26,7 +26,7 @@ Amount Discrepancies: 1
 ## 📊 Live Dashboard
 
 View the interactive dashboard here:  
-**[Invoice Discrepancy Dashboard - Looker Studio]((https://datastudio.google.com/reporting/201d3a90-7031-4062-8740-48fa852657d5))**
+**[Invoice Discrepancy Dashboard - Looker Studio](https://datastudio.google.com/reporting/201d3a90-7031-4062-8740-48fa852657d5)**
 
 ### Dashboard Preview
 
