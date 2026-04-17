@@ -1,0 +1,6 @@
+InvoiceNumber,Supplier,Amount,Date
+INV-001,Vendor A,1500.00,2024-01-15
+INV-002,Vendor B,2300.00,2024-01-16
+INV-003,Vendor C,875.50,2024-01-16
+INV-004,Vendor A,3200.00,2024-01-17
+INV-005,Vendor B,410.25,2024-01-18

@@ -1,0 +1,11 @@
+INVOICE DISCREPANCY REPORT
+========================================
+
+Total Purchase Orders: 5
+Total Vendor Invoices: 5
+Missing Invoices: 1
+Extra Invoices: 1
+Amount Discrepancies: 1
+Duplicate Invoices: 0
+
+Total Discrepancy Value: £-100.00
